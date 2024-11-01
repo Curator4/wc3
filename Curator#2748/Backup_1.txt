@@ -1,0 +1,16 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "LNl:-{vQ7x.MTf[fTc[7}62ncg2cn7}0w:'ypQ67{NUNcN-p[Qna2emyAcMQn}2emyDcMQnK2emymcMT4NJ:-M-tgO29,fmyvcMb.M]NcQ-p670NUNc7-pPQna2e[aA3", 0)//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097359726, "gHnw.Ny:fAJQn}2eNiTcN7}.", 0)//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
